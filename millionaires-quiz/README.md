@@ -192,8 +192,21 @@ The architecture prioritizes scalability, security, and modular expansion.
 
 ---
 
+## 🚀 Live Product
+
+The Millionaires Quiz is deployed and publicly available:
+
+📲 Google Play Store:  
+https://play.google.com/store/apps/details?id=com.app.next_billionaires
+
+Built for scale. Designed for performance. Engineered for growth.
+
+---
+
 ## 👨‍💻 Engineered By
 
 Yaduvanshi Studio Labs  
-Production-Ready Flutter + Firebase Systems  
-yaduvanshistudiolabs@gmail.com
+Clean Architecture. Secure Backend. Scalable Systems.
+
+📧 yaduvanshistudiolabs@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/shiv-kumar-yadav-at-yaduvanshi-studio-labs/
