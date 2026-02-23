@@ -131,7 +131,7 @@ For collaborations, production systems, or technical partnerships:
 
 📧 yaduvanshistudiolabs@gmail.com  
 🌐 Website: https://www.yaduvanshistudiolabs.org  
-💼 LinkedIn: https://www.linkedin.com/in/shiv-kumar-yadav-at-yaduvanshi-studio-labs/
+💼 LinkedIn: https://www.linkedin.com/in/shiv-kumar-yadav-at-yaduvanshi-studio-labs
 📘 Facebook: https://www.facebook.com/profile.php?id=61586992354612
 
 ---
